@@ -1,6 +1,6 @@
 import { useEffect } from 'react'
 import { useNavigate } from 'react-router-dom'
-import {useUserstore} from '../store/useUserStore'
+import {useUserStore} from '../store/useUserStore'
 
 
 const Logout = () => {
